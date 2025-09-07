@@ -1,6 +1,6 @@
 # 🚀 Reflector TradeBet
 <br>
-<img src="/logo.png" alt="reflectortradebet" width="400"/><br> <br>
+<img src="/logo.jpg" alt="reflectortradebet" width="400"/><br> <br>
 
 This platform is a comprehensive DeFi trading infrastructure built on the Stellar blockchain that redefines automated cryptocurrency trading. Traders can pre-set profit-taking and stop-loss orders, and the system executes them automatically 24/7 based on market movements—without the need for constant monitoring.
 
