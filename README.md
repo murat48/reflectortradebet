@@ -1,7 +1,6 @@
 # 🚀 Reflector TradeBet
 <br>
 <img src="/logo.jpg" alt="reflectortradebet" width="400"/><br> <br>
-
 This platform is a comprehensive DeFi trading infrastructure built on the Stellar blockchain that redefines automated cryptocurrency trading. Traders can pre-set profit-taking and stop-loss orders, and the system executes them automatically 24/7 based on market movements—without the need for constant monitoring.
 
 The platform leverages a decentralized Oracle infrastructure to deliver a real-time data dashboard with interactive charts and historical analysis, enabling users to track price movements and gain deeper market insights. Users can also join prediction markets, where they bet on price directions with a fair refund system that protects them from complete losses.
@@ -11,6 +10,17 @@ Developed with Next.js, TypeScript, and Rust-based Soroban smart contracts, the 
 Key features include continuous hands-free trading, emergency sell functionality, a comprehensive admin panel for system management, and risk-free prediction markets with automatic resolution. Stellar’s low fees and fast transaction speeds combine with memory-safe Rust contracts to deliver enterprise-grade security.
 
 This open-source platform is designed for active crypto traders seeking automation, DeFi enthusiasts interested in prediction markets, and developers aiming to build on modern blockchain trading infrastructure. With cutting-edge technology and a user-friendly design, it brings the future of automated cryptocurrency trading to life today.
+
+## Active Contract Addresses
+
+- **Trailing Stop**  
+  [CAZWLEBJI6PGUVK2WA4QFXEUYKXYQSDFXMLFZ2LGGSP4GZFTZYDMN7GX](https://stellar.expert/explorer/testnet/contract/CAZWLEBJI6PGUVK2WA4QFXEUYKXYQSDFXMLFZ2LGGSP4GZFTZYDMN7GX)
+
+- **Betting Market**  
+  [CBJU447ZOL2XDSVK63XFPYRFQDDDS63WC66Q56MMDYQYYXR73QQVR7M3](https://stellar.expert/explorer/testnet/contract/CBJU447ZOL2XDSVK63XFPYRFQDDDS63WC66Q56MMDYQYYXR73QQVR7M3)
+
+- **Oracle (Prediction Market)**  
+  [CBKP2C5PJY2IH35TD5NVVYGT47X3RO2PU7FWWGTKTF7HOP5RRUH577J2](https://stellar.expert/explorer/testnet/contract/CBKP2C5PJY2IH35TD5NVVYGT47X3RO2PU7FWWGTKTF7HOP5RRUH577J2)
 
 ## Active Contract Addresses
 
