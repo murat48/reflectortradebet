@@ -1,6 +1,6 @@
 # 🚀 Reflector TradeBet
 
-**Reflector TradeBet** is a comprehensive trading and betting platform running on **Stellar blockchain**. It combines advanced trading features with prediction markets, including **Reflector Trading**, **Oracle Data Dashboard**, **TradeBet Market**, and **Admin Panel**.
+**Reflector TradeBet** is a comprehensive trading and betting platform running on **Stellar blockchain**. It combines advanced trading features with prediction markets, including **Reflector Trading**, **Oracle Data Dashboard** and **TradeBet Market**.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
