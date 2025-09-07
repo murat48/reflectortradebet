@@ -173,7 +173,7 @@ The application will run at [http://localhost:3000](http://localhost:3000).
 
 ### 3. Oracle Dashboard
 
-- **Real-time Prices**: Live prices for 6 different assets
+- **Real-time Prices**: Live prices for 6 different assets(Supported via testnet. More may be available in the future)
 - **Historical Charts**: Historical price charts
 - **Price Change**: Price change percentages
 - **Auto-refresh**: 5-60 second update intervals
