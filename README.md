@@ -59,7 +59,7 @@ This open-source platform is designed for active crypto traders seeking automati
 ## 🏗️ Project Structure
 
 ```
-trailing-stop-frontendv23/
+reflectortradebet/
 ├── 📁 app/                       # Next.js App Router
 │   ├── page.tsx                 # Main page (tabbed interface)
 │   ├── layout.tsx               # Root layout
@@ -108,7 +108,7 @@ trailing-stop-frontendv23/
 
 ```bash
 git clone <repository-url>
-cd trailing-stop-frontendv23
+cd reflectortradebet
 ```
 
 ### 2. Install Dependencies
