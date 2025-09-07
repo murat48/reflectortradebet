@@ -2,7 +2,7 @@
 
 This platform is a comprehensive DeFi trading infrastructure built on the Stellar blockchain that redefines automated cryptocurrency trading. Traders can pre-set profit-taking and stop-loss orders, and the system executes them automatically 24/7 based on market movements—without the need for constant monitoring.
 
-The platform includes a real-time Oracle data dashboard with interactive charts and historical analysis, enabling users to track price movements and gain deeper market insights. Users can also join prediction markets, where they bet on price directions with a fair refund system that protects them from complete losses.
+The platform leverages a decentralized Oracle infrastructure to deliver a real-time data dashboard with interactive charts and historical analysis, enabling users to track price movements and gain deeper market insights. Users can also join prediction markets, where they bet on price directions with a fair refund system that protects them from complete losses.
 
 Developed with Next.js, TypeScript, and Rust-based Soroban smart contracts, the system ensures secure automated transaction signing through advanced key management. The integrated Telegram bot provides instant notifications for trade executions, detailed profit and loss reports, and live market updates.
 
