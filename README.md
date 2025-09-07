@@ -22,17 +22,6 @@ This open-source platform is designed for active crypto traders seeking automati
 - **Oracle (Prediction Market)**  
   [CBKP2C5PJY2IH35TD5NVVYGT47X3RO2PU7FWWGTKTF7HOP5RRUH577J2](https://stellar.expert/explorer/testnet/contract/CBKP2C5PJY2IH35TD5NVVYGT47X3RO2PU7FWWGTKTF7HOP5RRUH577J2)
 
-## Active Contract Addresses
-
-- **Trailing Stop**  
-  [CAZWLEBJI6PGUVK2WA4QFXEUYKXYQSDFXMLFZ2LGGSP4GZFTZYDMN7GX](https://stellar.expert/explorer/testnet/contract/CAZWLEBJI6PGUVK2WA4QFXEUYKXYQSDFXMLFZ2LGGSP4GZFTZYDMN7GX)
-
-- **Betting Market**  
-  [CBJU447ZOL2XDSVK63XFPYRFQDDDS63WC66Q56MMDYQYYXR73QQVR7M3](https://stellar.expert/explorer/testnet/contract/CBJU447ZOL2XDSVK63XFPYRFQDDDS63WC66Q56MMDYQYYXR73QQVR7M3)
-
-- **Oracle (Prediction Market)**  
-  [CBKP2C5PJY2IH35TD5NVVYGT47X3RO2PU7FWWGTKTF7HOP5RRUH577J2](https://stellar.expert/explorer/testnet/contract/CBKP2C5PJY2IH35TD5NVVYGT47X3RO2PU7FWWGTKTF7HOP5RRUH577J2)
-
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Stellar](https://img.shields.io/badge/Stellar-SDK_14.1-7B2CBF?style=flat-square&logo=stellar)](https://stellar.org/)
