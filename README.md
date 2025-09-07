@@ -51,7 +51,7 @@ This open-source platform is designed for active crypto traders seeking automati
 - **Oracle Data Dashboard**: Real-time price tracking and analysis
 - **TradeBet Market**: Prediction market for crypto price betting
 - **Admin Panel**: System management and liquidity control
-- **Multi-Asset Support**: BTCLN, AQUA, yUSDC, SSLX, EURC, KALE
+- **Multi-Asset Support**: BTCLN, AQUA, yUSDC, SSLX, EURC, KALE (Supported via testnet. More may be available in the future)
 - **Automated Trading**: Automatic transaction signing without user intervention
 
 ### 🔗 Blockchain Integration
