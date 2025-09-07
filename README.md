@@ -412,15 +412,15 @@ npm run lint         # ESLint check
 ```bash
 # Trailing Stop Contract
 cd contracts/trailing-stop/contracts/hello-world
-cargo build --target wasm32-unknown-unknown --release
+cargo build --target wasm32v1-none --release
 
 # Oracle Contract
 cd contracts/prediction-market/contracts/prediction-market
-cargo build --target wasm32-unknown-unknown --release
+cargo build --target wasm32v1-none --release
 
 # Betting Contract
 cd contracts/bet-prediction-market/contracts/bet-prediction
-cargo build --target wasm32-unknown-unknown --release
+cargo build --target wasm32v1-none --release
 ```
 
 ### Testing
@@ -444,12 +444,27 @@ cargo test
 npm run build
 npm run start
 
-# Contract deployment
+# Contract deployment bet-prediction-market
 stellar contract deploy \
-  --wasm target/wasm32-unknown-unknown/release/contract.wasm \
+  --wasm target/wasm32v1-none/release/bet_prediction.wasm \
   --network testnet
-```
 
+# Contract deployment prediction-market
+stellar contract deploy \
+  --wasm target/wasm32v1-none/release/prediction_market.wasm \
+  --network testnet
+
+# Contract deployment trailing-stop
+stellar contract deploy \
+  --wasm target/wasm32v1-none/release/trailing_stop_loss.wasm \
+  --network testnet
+
+```
+### Initialize 
+
+```bash
+soroban contract invoke --id yourcontractid --source alice(yoursecretkey) --network testnet -- initialize --admin GALDPLQ62RAX3V7RJE73D3C2F4SKHGCJ3MIYJ4MLU2EAIUXBDSUVS7SA(your admin addres) --oracle_address CAVLP5DH2GJPZMVO7IJY4CVOD5MWEFTJFVPD2YY2FQXOQHRGHK4D6HLP
+```
 ## 📈 Roadmap
 
 ### Phase 1: Core Features ✅
