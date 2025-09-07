@@ -69,7 +69,7 @@ This open-source platform is designed for active crypto traders seeking automati
 - **Auto-refresh**: Automatic data updates
 - 
 ## 🎥 Live Demo
-[![Reflector TradeBet - Live Trading Demo](https://img.youtube.com/vi/6m0Es4zb2MM/maxresdefault.jpg)](https://www.youtube.com/watch?v=T1LGEH2oAOE)
+[![Reflector TradeBet - Live Trading Demo](https://i9.ytimg.com/vi/T1LGEH2oAOE/sddefault.jpg?v=68bda7a7&sqp=CNzj9sUG&rs=AOn4CLBB7aPxOnracYrpCdwxSOSPZn-s5A)](https://www.youtube.com/watch?v=T1LGEH2oAOE)
 
 ## 🏗️ Project Structure
 
