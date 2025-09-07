@@ -1,10 +1,14 @@
 # 🚀 Reflector TradeBet
 
-This is a comprehensive DeFi trading platform built on Stellar blockchain that revolutionizes automated cryptocurrency trading. The platform features automated trailing stop trading that works 24/7 without user intervention, allowing traders to set profit-taking and stop-loss orders that execute automatically based on market movements.
-The system includes a real-time Oracle data dashboard that tracks prices for 6 different assets (BTCLN, AQUA, yUSDC, SSLX, EURC, KALE) with interactive charts and historical analysis. Users can also participate in prediction markets where they can bet on price directions (Up/Down/Stable) with a fair refund system that protects users from total losses.
-Built with Next.js, TypeScript, and Rust-based Soroban smart contracts, the platform offers secure automated transaction signing through advanced key management. The integrated Telegram bot provides instant notifications for trade executions, detailed profit/loss reports, and market updates.
-Key features include hands-free trading that runs continuously in the background, emergency sell functionality, comprehensive admin panel for system management, and a risk-free betting system with automatic market resolution. The platform leverages Stellar's low fees and fast transactions while maintaining enterprise-level security through memory-safe Rust contracts.
-Perfect for active crypto traders seeking automation, DeFi enthusiasts interested in prediction markets, and developers wanting to build on a modern blockchain trading infrastructure. The open-source platform combines cutting-edge technology with user-friendly design to deliver the future of automated cryptocurrency trading.
+This platform is a comprehensive DeFi trading infrastructure built on the Stellar blockchain that redefines automated cryptocurrency trading. Traders can pre-set profit-taking and stop-loss orders, and the system executes them automatically 24/7 based on market movements—without the need for constant monitoring.
+
+The platform includes a real-time Oracle data dashboard with interactive charts and historical analysis, enabling users to track price movements and gain deeper market insights. Users can also join prediction markets, where they bet on price directions with a fair refund system that protects them from complete losses.
+
+Developed with Next.js, TypeScript, and Rust-based Soroban smart contracts, the system ensures secure automated transaction signing through advanced key management. The integrated Telegram bot provides instant notifications for trade executions, detailed profit and loss reports, and live market updates.
+
+Key features include continuous hands-free trading, emergency sell functionality, a comprehensive admin panel for system management, and risk-free prediction markets with automatic resolution. Stellar’s low fees and fast transaction speeds combine with memory-safe Rust contracts to deliver enterprise-grade security.
+
+This open-source platform is designed for active crypto traders seeking automation, DeFi enthusiasts interested in prediction markets, and developers aiming to build on modern blockchain trading infrastructure. With cutting-edge technology and a user-friendly design, it brings the future of automated cryptocurrency trading to life today.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
