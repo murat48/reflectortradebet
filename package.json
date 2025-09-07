@@ -1,0 +1,39 @@
+{
+  "name": "reflector-tradebet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@stellar/freighter-api": "^4.1.0",
+    "@stellar/stellar-sdk": "^14.1.1",
+    "@types/crypto-js": "^4.2.2",
+    "buffer": "^6.0.3",
+    "crypto-js": "^4.2.0",
+    "next": "^14.2.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^3.1.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.1",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.0",
+    "postcss": "^8.5.6",
+    "stream-browserify": "^3.0.0",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5",
+    "url": "^0.11.4",
+    "util": "^0.12.5"
+  }
+}

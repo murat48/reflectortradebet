@@ -1,0 +1,21 @@
+{
+  "name": "trading-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for trading notifications",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": ["telegram", "bot", "trading", "notifications"],
+  "author": "Trading Platform",
+  "license": "MIT"
+}
