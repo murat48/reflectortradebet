@@ -543,9 +543,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📞 Contact
 
 - **Developer**: Murat Keskin
-- **Email**: [email@example.com]
-- **GitHub**: [github.com/username]
-- **Telegram**: [@username]
+- **Email**: [info@yazilimciburada.com]
+- **GitHub**: [github.com/murat48]
+- **Telegram**: [@mrtksknyzlm]
 
 ## 🙏 Acknowledgments
 
@@ -558,11 +558,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ⭐ If you like this project, please give it a star!
-
-📚 For more documentation:
-
-- `BETTING-MARKET-README.md`
-- `Oracle-Frontend-Docs.md`
-- `TELEGRAM-BOT-SETUP.md`
 
 🐛 Use GitHub Issues for bug reports and feature requests.
